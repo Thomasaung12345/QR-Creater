@@ -1,6 +1,10 @@
-pip install pyqrcode
-pip install pypng
-pip install rich
-pip install pystyle
+@echo off 
+Title “pip installing”
 
-QR.py
+pip install -r requirements.txt
+
+Title “Launching Python App”
+:run
+cls
+Title “QR Creater Github-Thomasaung12345”
+start /b  QR.py
