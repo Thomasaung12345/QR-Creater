@@ -8,6 +8,8 @@ import png
 from rich import print
 from pyqrcode import QRCode
 from pystyle import Box
+import os
+os.system("title QR Creater Github-Thomasaung12345")
 
 print(Box.DoubleCube("Welcome From QR code maker."))
 print(Box.DoubleCube("Coded By ThomasAung#5599 on Discord"))
