@@ -14,12 +14,14 @@ To use this tool follow these steps below
 - ```git clone https://github.com/Thomasaung12345/QR-Creater.git```
 - ```cd QR-Creater```
 - ```pip install -r requirements.txt```
-- if you are using python2 using ```pip2 install -r requirements.txt```
-- if you are using python3 using ```pip3 install -r requirements.txt```
+- if you are using python2 run ```pip2 install -r requirements.txt```
+- if you are using python3 run ```pip3 install -r requirements.txt```
 - ```python QR.py```
-- if you are using python2 using ```python2 QR.py```
-- if you are using python3 using ```python3 QR.py```
-- ```sudo apt install python3-pip```
+- if you are using python2 run ```python2 QR.py```
+- if you are using python3 run ```python3 QR.py```
+- ```sudo apt install python-pip```
+- if you are using python2 run ```sudo apt install python2-pip```
+- if you are using python3 run ```sudo apt install python3-pip```
 - _warning_ there are bugs in linux version
 
 # Installing Python3 On Linux
