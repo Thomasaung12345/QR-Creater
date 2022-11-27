@@ -2,7 +2,8 @@
 *this is a QR code creater created by me*
 
 # Windows
-Python have to be installed. visit python[python.org]
+Python have to be installed. visit [Python Website](https://python.org).
+
 
 To use this tool follow these steps below
 - Open the folder and run the file ```QR.bat```
