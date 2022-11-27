@@ -13,7 +13,7 @@ To use this tool follow these steps below
 *run these commands*
 - ```git clone https://github.com/Thomasaung12345/QR-Creater.git```
 - ```cd QR-Creater```
-- - ```sudo apt install python-pip```
+- ```sudo apt install python-pip```
 - if you are using python2 run ```sudo apt install python2-pip```
 - if you are using python3 run ```sudo apt install python3-pip```
 - ```pip install -r requirements.txt```
