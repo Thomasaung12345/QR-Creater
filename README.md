@@ -2,6 +2,7 @@
 *this is a QR code creater created by me*
 
 # Windows
+Python have to be installed. visit python
 to use this tool follow these steps below
 - Open the folder and run the file ```QR.bat```
 - Wait for a moment and when it finished installing the app will be launched
@@ -13,6 +14,12 @@ to use this tool follow these steps below
 - ```pip install -r requirements.txt```
 - if you are using python2 using ```pip2 install -r requirements.txt```
 - if you are using python3 using ```pip3 install -r requirements.txt```
-- ```python QR.py``
-- if you are using python2 using ```python2 QR.py``
-- if you are using python3 using ```python3 QR.py``
+- ```python QR.py```
+- if you are using python2 using ```python2 QR.py```
+- if you are using python3 using ```python3 QR.py```
+
+# Installing Python3 On Linux
+*Run these Commands*
+- ```sudo apt-get update```
+- ```sudo apt-get install python3.6```
+Done!
