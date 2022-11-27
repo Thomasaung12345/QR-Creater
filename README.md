@@ -19,6 +19,7 @@ To use this tool follow these steps below
 - ```python QR.py```
 - if you are using python2 using ```python2 QR.py```
 - if you are using python3 using ```python3 QR.py```
+- _warning_ there are bugs in linux version
 
 # Installing Python3 On Linux
 *Run these Commands*
