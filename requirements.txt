@@ -1,3 +1,4 @@
 pyqrcode
 rich
 pystyle
+pypng
